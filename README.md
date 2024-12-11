@@ -1,17 +1,16 @@
-# Krypt - Web 3.0 Blockchain Application
+# Krypt Web Development and Blockchain project for the Defi Transactions
 ![Krypt](https://i.ibb.co/DVF4tNW/image.png)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+## Summary
+Krypt DeFi Bank project is a blockchain-based platform designed to provide secure and transparent financial services. It leverages Ethereum smart contracts to automate operations like lending, borrowing, staking, and fixed-cost agreements, eliminating intermediaries while ensuring trust and efficiency. The goal is to create a user-friendly decentralized system that empowers individuals with full control over their finances.
 
-## Introduction
-This is a code repository for the corresponding video tutorial.
+## Future Scope
+    1.   Expand compatibility beyond Ethereum to support other blockchains like Binance Smart Chain, Solana, and Polygon for broader accessibility.
+    2.	AI-Powered Financial Insights:
+        Use AI to analyze user data and provide personalized investment strategies, credit scoring, and risk assessments.
+	3.	Introduction of Stablecoins:
+    	Develop or integrate stablecoins 
 
-Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a your first real Web 3.0 Application - from start to finish.
-
-Project created in collaboration with Enyel Sequeira: 
-Portfolio - https://www.enyelsequeira.com
-E-mail - enyelsequeira1994@gmail.com
-Want me to cover the project you've created? Send me an e-mail 👌
-
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+##Sushanth Contribution
+Frontend - ReactJS
+Backend -  Solidity, Hardhat, Node.JS, JavaScript, JSON       
